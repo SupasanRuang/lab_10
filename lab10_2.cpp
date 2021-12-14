@@ -6,6 +6,7 @@ void printO(int y ,int x)
 {
 	if(y<=0||x<=0)
 	{
+		
 		cout<<"Invalid input";
 	}
 	else
