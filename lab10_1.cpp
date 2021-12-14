@@ -2,8 +2,10 @@
 #include<iomanip> //For using setw(), setprecision(), ...
 using namespace std;
 
+
 int main()
 {	
+	
 	double loan,rate_per_year,pay_per_year,PrevBalance,Total,Interest,Payment,NewBalance;
 	int count_year=1;
 	cout << "Enter initial loan: ";
